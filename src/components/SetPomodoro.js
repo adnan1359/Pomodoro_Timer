@@ -1,5 +1,5 @@
-import React, { useContext, useState } from 'react'
-import { SettingsContext } from '../context/SettingsContext'
+import React, { useContext, useState } from 'react';
+import { SettingsContext } from '../context/SettingsContext';
 
 const SetPomodoro = () => {
 
@@ -53,4 +53,4 @@ const SetPomodoro = () => {
     )
 }
 
-export default SetPomodoro
+export default SetPomodoro;
